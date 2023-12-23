@@ -64,3 +64,23 @@ yarn-error.log
 
 # testing
 /coverage
+# React Native
+node_modules/
+android/build/
+android/app/build/
+ios/Pods/
+ios/build/
+*.log
+*.orig
+*.DS_Store
+
+# Environment variables
+.env
+
+# Gradle files
+.gradle/
+build/
+
+# Expo
+.expo
+.expo-shared
